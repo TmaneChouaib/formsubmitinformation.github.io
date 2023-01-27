@@ -1,0 +1,6 @@
+body #acceuil {
+    background-image: url("https://images.pexels.com/photos/904177/pexels-photo-904177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 100% ;
+    border-style: solid;
+    border-color: gray    ;
+  }
